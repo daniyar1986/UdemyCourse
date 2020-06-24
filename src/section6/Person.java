@@ -1,4 +1,4 @@
-package section3;
+package section6;
 
 public class Person {
     private String firstName;
